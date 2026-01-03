@@ -18,7 +18,7 @@ The skewed Kalman filter (SKF) extends the classical Gaussian Kalman filter by a
 # Publications
 
 #### The Price of War
-[American Economic Review](https://www.aeaweb.org/) cond. accepted, with Jonathan Federle, André Meier, Gernot J. Müller, and Moritz Schularick.
+[American Economic Review](https://www.aeaweb.org/) forthcoming, with Jonathan Federle, André Meier, Gernot J. Müller, and Moritz Schularick.
 
 [June 2025](/files/papers/Price_of_War_2025.pdf) |
 [September 2024](/files/papers/Price_of_War_2024.pdf) |
