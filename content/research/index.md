@@ -1,6 +1,6 @@
 # Working Papers
 
-#### Pruned skewed Kalman filter and smoother with applications to DSGE models
+#### Pruned skewed Kalman filter and smoother with application to DSGE models
 [Journal of Economic Dynamics and Control](), acceptable for publication subject to minor revisions, with Gaygysyz Guljanov and Mark Trede.
 
 [November 2025](/files/papers/GuljanovMutschlerTrede_PSKF.pdf) |
