@@ -12,7 +12,7 @@ title = "Research"
 [Add abstract here - you may need to get this from the paper or journal website]
 </div></details>
 ---
-
+<br><br>
 ## Working Papers
 
 **Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript prepared and submitted for publication.**
