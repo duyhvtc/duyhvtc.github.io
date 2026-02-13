@@ -1,14 +1,31 @@
 {{ define "main" }}
 
-<h1>Duy V.DANG</h1>
+<!-- Dark mode styles - applied to body through the template -->
+<style>
+    body {
+        background-color: #1a1a1a;
+        color: #e0e0e0;
+    }
+    a {
+        color: #66b0ff;
+    }
+    a:hover {
+        color: #99ccff;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: #ffffff;
+    }
+</style>
+
+<h1 style="color: #ffffff;">Duy V.DANG</h1>
 
 <div style="display: flex; flex-direction: row; gap: 2em; max-width: 1000px; margin: 0 auto;">
     <div style="flex: 0 0 300px;">
-        <img src="/images/duy2.jpg" alt="Duy V.DANG" style="width: 270px; height: 300px; border-radius: 3%; object-fit: cover; object-position: center;">
+        <img src="/images/duy2.jpg" alt="Duy V.DANG" style="width: 270px; height: 300px; border-radius: 3%; object-fit: cover; object-position: center; border: 2px solid #444;">
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; color: #cccccc;">
     <p>
-    <strong>Economist | PhD Candidate at Waseda University</strong>
+    <strong style="color: #ffffff;">Economist | PhD Candidate at Waseda University</strong>
     </p>
     <p>
     I am a PhD Candidate in Economics at the <a href="https://www.waseda.jp/fpse/gse/en/">Graduate School of Economics, Waseda University</a>, Tokyo, Japan. My research focuses on household environmental footprints, input-output analysis, and sustainable diets.
@@ -17,13 +34,13 @@
     My work aims to understand the environmental impacts of consumption patterns and explore pathways toward more sustainable consumption.
     </p>
     <p>
-    <div><strong>🎓 Job Market Candidate</strong> — I will be on the job market starting June 2026, seeking postdoctoral positions in environmental economics, input-output analysis, and sustainable consumption.</div>
+    <div style="color: #cccccc;"><strong style="color: #ffffff;">🎓 Job Market Candidate</strong> — I will be on the job market starting June 2026, seeking postdoctoral positions in environmental economics, input-output analysis, and sustainable consumption.</div>
     </p>
     <p>
-    <strong>Contact:</strong> <a href="mailto:dangvanduy@fuji.waseda.jp">Email</a>
+    <strong style="color: #ffffff;">Contact:</strong> <a href="mailto:dangvanduy@fuji.waseda.jp">Email</a>
     </p>
     <p>
-    <strong>Find me elsewhere:</strong>
+    <strong style="color: #ffffff;">Find me elsewhere:</strong>
     <a href="https://scholar.google.com/citations?user=kmXE2ZEAAAAJ&hl=en">Google Scholar</a> |
     <a href="https://github.com/duyhvtc">GitHub</a> |
     <a href="https://linkedin.com/in/duyhvtc">LinkedIn</a> |
@@ -34,12 +51,12 @@
 
 <!-- News Section -->
 <div style="max-width: 1000px; margin: 2em auto 0 auto;">
-    <h2>📰 News</h2>
+    <h2 style="color: #ffffff;">📰 News</h2>
     
     <div style="margin-top: 1.5em;">
-        <div style="display: flex; margin-bottom: 1em; padding-bottom: 0.5em; border-bottom: 1px solid #eee;">
-            <div style="min-width: 100px; font-weight: bold; color: #666;">Jan 2026</div>
-            <div>My very first paper was published on Ecological Economics. Free download until 18 Mar 2026 with <a href="https://authors.elsevier.com/a/1mW7W3Hb%7E0ltGg">my personal share link</a></div>
+        <div style="display: flex; margin-bottom: 1em; padding-bottom: 0.5em; border-bottom: 1px solid #444;">
+            <div style="min-width: 100px; font-weight: bold; color: #999;">Jan 2026</div>
+            <div style="color: #cccccc;">My very first paper was published on Ecological Economics. Free download until 18 Mar 2026 with <a href="https://authors.elsevier.com/a/1mW7W3Hb%7E0ltGg">my personal share link</a></div>
         </div>
     </div>
 </div>
