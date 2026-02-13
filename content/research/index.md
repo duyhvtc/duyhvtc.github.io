@@ -20,7 +20,7 @@ title = "Research"
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">
 [Add abstract here when available]
 </div></details>
-
+<br><br>
 **Dang, D. V. How Much Change Is Needed? Mapping Global EAT-Lancet Diet Transitions. Manuscript prepared and submitted for publication.**
 
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">
