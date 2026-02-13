@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-## Publications
+## Journal Articles
 
 Dang, D. V. (2026). Beyond the environment: Sustainable consumption amid poverty and inequality. Insight from a developing economy. *Ecological Economics*, 243, 108932. https://doi.org/10.1016/j.ecolecon.2026.108932
 
