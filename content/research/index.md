@@ -15,7 +15,7 @@ title = "Research"
 
 ## Working Papers
 
-#### Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript prepared and submitted for publication.
+**Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript prepared and submitted for publication.**
 
 Manuscript prepared and submitted for publication.
 
@@ -23,9 +23,7 @@ Manuscript prepared and submitted for publication.
 [Add abstract here when available]
 </div></details>
 
-#### Dang, D. V. How Much Change Is Needed? Mapping Global EAT-Lancet Diet Transitions. Manuscript prepared and submitted for publication.
-
-Manuscript prepared and submitted for publication.
+**Dang, D. V. How Much Change Is Needed? Mapping Global EAT-Lancet Diet Transitions. Manuscript prepared and submitted for publication.Manuscript prepared and submitted for publication.**
 
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">
 [Add abstract here when available]
