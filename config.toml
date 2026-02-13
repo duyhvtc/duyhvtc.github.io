@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://duyhvtc.github.io/"
 title = "Duy V.DANG"
 theme = "hugo-theme-console"
 languageCode = "en-us"
