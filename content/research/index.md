@@ -13,6 +13,7 @@ Dang, D. V. (2026). Beyond the environment: Sustainable consumption amid poverty
 </div></details>
 ---
 <br><br>
+
 ## Working Papers
 
 Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript prepared and submitted for publication.
