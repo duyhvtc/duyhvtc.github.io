@@ -1,5 +1,5 @@
-baseurl = "https://mutschler.eu/"
-title = "Willi Mutschler"
+baseurl = "/"
+title = "Duy V.DANG"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
@@ -24,8 +24,12 @@ languageCode = "en-us"
   math = true
 
   [[params.navlinks]]
-  name = "</>"
+  name = "home/"                        
   url = "/"
+
+  [[params.navlinks]]
+  name = "about/"                        
+  url = "/about/"
 
   [[params.navlinks]]
   name = "research/"
@@ -37,4 +41,4 @@ languageCode = "en-us"
 
   [[params.navlinks]]
   name = "cv/"
-  url = "/files/cv/cv_mutschler_homepage.pdf"
+  url = "/files/cv/Duy_CV.pdf"
