@@ -14,16 +14,17 @@ Shifting consumption toward sustainability is essential for balancing economic d
 ---
 <br><br>
 
-## Working Papers
+## Upcoming Papers
 
-Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript prepared and submitted for publication.
+Dang, D. V. & Kondo, Y. Household carbon footprint in Vietnam: Do the rich present less carbon-intensive consumption? Manuscript submitted to Environment and Development Economics, under peer review.
 
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">
 [Add abstract here when available]
 </div></details>
 <br><br>
 
-Dang, D. V. How Much Change Is Needed? Mapping Global EAT-Lancet Diet Transitions. Manuscript prepared and submitted for publication.
+Dang, D. V. How Much Change Is Needed? Mapping Global EAT-Lancet Diet Transitions. Manuscript 
+submitted to Environmental Science & Technology, under peer review. Preprinted version available at SSRN: https://ssrn.com/abstract=6161366 or http://dx.doi.org/10.2139/ssrn.6161366
 
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">
 [Add abstract here when available]
