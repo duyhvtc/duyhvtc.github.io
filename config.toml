@@ -28,10 +28,6 @@ languageCode = "en-us"
   url = "/"
 
   [[params.navlinks]]
-  name = "news/"
-  url = "/news/"
-
-  [[params.navlinks]]
   name = "research/"
   url = "/research/"
 
